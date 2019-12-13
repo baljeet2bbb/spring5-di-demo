@@ -3,3 +3,10 @@ guru:
     username: Hitler
     password: cdcjsans
     url: jhcvadschas@cjbdc.com
+
+---
+spring:
+  profiles:
+guru:
+      jms:
+        username: Hitler****In*German
